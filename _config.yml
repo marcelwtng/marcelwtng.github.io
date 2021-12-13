@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Leuven, BE"
-  employer         :  KU Leuven, Faculty of Business and Economics
+  employer         :  "KU Leuven"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eq9CrmUAAAAJ&hl=de"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@marcelwtng"
+  twitter          : "marcelwtng"
   vine             :
   weibo            :
   xing             :
