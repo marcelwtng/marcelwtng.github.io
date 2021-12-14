@@ -17,24 +17,27 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2020 - Present: PhD Student in Business Economics
+  * KU Leuven, Department for Management, Strategy and Innovation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 04/2020 - Present: Research Assistant
+  * Centre for Research & Development Monitoring (ECOOM) 
+
+* 10/2019 - 03/2020: Trainee
+  * European Commission, DG COMP, Chief Economist Team
+ 
+* 10/2019 - 03/2020: Economist and Master Thesis Student
+  * Dutch Gambling Authority
+
+* 10/2019 - 03/2020: Trainee
+  * German Council of Economic Experts
+
+* 10/2019 - 03/2020: Trainee
+  * European Centre of Economic Research (ZEW)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata, R, Python, Latex
 
 Publications
 ======
