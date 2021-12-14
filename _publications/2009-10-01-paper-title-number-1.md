@@ -1,10 +1,10 @@
 ---
 title: "Algorithms in the Marketplace: An Empirical Analysis of Algorithmic Pricing in E-Commerce"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/Wieting_Sapi_Algorithms_in_the_marketplace
+excerpt: ''
+date: 2021-12-01
+venue: 'NET Institute Working Paper No. 21-06'
 paperurl: 'http://marcelwtng.github.io/files/Wieting_Sapi_Algorithms_in_the_marketplace.pdf'
 citation: 'Wieting, M., & Sapi, G. (2021). &quot;Algorithms in the Marketplace: An Empirical Analysis of Algorithmic Pricing in E-Commerce&quot; <i>NET Institute Working Paper No. 21-06</i>. 1(1).'
 ---
