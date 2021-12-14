@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Marcel. I am PhD Stundent in Business/Applied Economcis at KU Leuven. My research interests lie between empirical industrial organization, digital markets and their regulation as well as the economcis of innovation.
+Hi, I am Marcel. I am PhD Stundent in Business/Applied Economcis at KU Leuven. My research interests lie between empirical industrial organization, digital markets and their regulation as well as the economcis of innovation. Check out my new working paper on algorithmic pricing in e-commerce.
 
