@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Marcel. This is my website.
+Hi, I am Marcel. I am PhD Stundent in Business/Applied Economcis at KU Leuven. My research interest lie between empirical industrial organization, digital markets and their regulation as well as the Economcis of Innovation.
 
