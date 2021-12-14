@@ -10,6 +10,6 @@ citation: 'Wieting, M., & Sapi, G. (2021). &quot;Algorithms in the Marketplace: 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/Wieting_Sapi_Algorithms_in_the_marketplace.pdf)
+[Download paper here](http://marcelwtng.github.io/files/Wieting_Sapi_Algorithms_in_the_marketplace.pdf)
 
 Recommended citation: Wieting, M., & Sapi, G. (2021). "Algorithms in the Marketplace: An Empirical Analysis of Algorithmic Pricing in E-Commerce" <i>NET Institute Working Paper No. 21-06</i>. 
