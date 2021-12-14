@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hallo, ich bin Marcel.
+Hi, I am Marcel. This is my website.
 
