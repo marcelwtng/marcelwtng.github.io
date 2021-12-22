@@ -10,5 +10,5 @@ redirect_from:
 
 Hi, I am Marcel. I am PhD Stundent in Business/Applied Economcis at KU Leuven. My research interests lie between empirical industrial organization, digital markets and their regulation as well as the economcis of innovation.
 
-Check out my new working paper on algorithmic pricing in e-commerce.
+Check out my new working paper [here](http://marcelwtng.github.io/files/Wieting_Sapi_Algorithms_in_the_marketplace.pdf) on algorithmic pricing in e-commerce.
 
