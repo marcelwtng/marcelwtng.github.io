@@ -53,10 +53,11 @@ Talks
   
 Teaching
 ======
+* 15/2020 - Present: Master Thesis Coach, M.Sc. Business Economics
+  * Best Master Thesis Award 2020
+  
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
