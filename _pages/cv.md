@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Find a PDF of the CV [here](http://marcelwtng.github.io/files/Wieting_Marcel_CV.pdf)
+
 Education
 ======
 * PhD Student in Business Economics, KU Leuven, BE, 2020 - ongoing 
