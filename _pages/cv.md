@@ -44,15 +44,12 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Teaching
 ======
+* 01/2021 - Present: Teaching Assistant, Empirical Market Analysis, University of Amsterdam
+  * Empirical Methods in Industrial Organization (Demand Estimation/Discrete Choice/Entry Models)   
+
 * 15/2020 - Present: Master Thesis Coach, M.Sc. Business Economics
   * Best Master Thesis Award 2020
   
